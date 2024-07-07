@@ -1,0 +1,24 @@
+{
+  "name": "abcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery.js",
+  "scripts": {
+    "sass:watch": "node-sass --output-style compressed --watch src/scss -o src/css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlegTiP/quality.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlegTiP/quality/issues"
+  },
+  "homepage": "https://github.com/OlegTiP/quality#readme",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
